@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanvelnar" alt="romanvelnar" /></a> </p>
 
-- 👨‍💻 Most of my projects are available at [https://www.romanvelnar.com/](https://www.romanvelnar.com/)
-
 - 📫 How to reach me **romanvelnar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
